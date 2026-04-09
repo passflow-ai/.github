@@ -1,18 +1,18 @@
 <p align="center">
 <img src="https://www.jaak.ai/favicon.svg" width="80" alt="PassFlow AI">
-</p>p>
+</p>
 
 <h1 align="center">PassFlow AI</h1>h1>
 
 <p align="center">
 <strong>Agents that act. Infrastructure that governs itself.</strong>strong>
-</p>p>
+</p>
 
 <p align="center">
 <a href="https://passflow.ai">Website</a>a> •
 <a href="https://passflow.ai/docs">Documentation</a>a> •
 <a href="https://github.com/passflow-ai">Repositories</a>a>
-</p>p>
+</p>
 
 ---
 
