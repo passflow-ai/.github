@@ -2,7 +2,7 @@
 <img src="https://www.jaak.ai/favicon.svg" width="80" alt="PassFlow AI">
 </p>
 
-<h1 align="center">PassFlow AI</h1>h1>
+<h1 align="center">PassFlow AI</h1>
 
 <p align="center">
 <strong>Agents that act. Infrastructure that governs itself.</strong>strong>
