@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-<a href="https://passflow.ai">Website</a>a> •
-<a href="https://passflow.ai/docs">Documentation</a>a> •
-<a href="https://github.com/passflow-ai">Repositories</a>a>
+<a href="https://passflow.ai">Website</a> •
+<a href="https://passflow.ai/docs">Documentation</a> •
+<a href="https://github.com/passflow-ai">Repositories</a>
 </p>
 
 ---
