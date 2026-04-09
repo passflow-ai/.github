@@ -45,4 +45,4 @@ PassFlow AI is proudly sponsored by **[jaak.ai](https://www.jaak.ai)**.
 
 <p align="center">
 Made with ❤️ in LatAm
-</p>p></strong>
+</p></strong>
